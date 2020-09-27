@@ -1,0 +1,59 @@
+You find yourself standing in an open field, filled with grass and yellow wildflowers.
+Rumor has it that a pirate/gorgon/troll/wicked fairie is somewhere around here, and has been terrifying the near by village.
+In front of you is a house.
+To your right is a dark cave.
+In your hand you hold your trusty (but not very effective) dagger.
+
+Enter 1 to knock on the door of the house.
+Enter 2 to peer into the cave.
+What would you like to do?
+(Please enter 1 or 2.)
+-------------------------------------------
+1 - First time to the house - without going to cave first
+You approach the door of the house.
+You are about to knock when the door opens and out steps a pirate/gorgon/troll/wicked fairie.
+Eep! This is the pirate/gorgon/troll/wicked fairie´s house!
+The pirate/gorgon/troll/wicked fairie attacks you!
+You feel a bit under-prepared for this, what with only having a tiny dagger.
+-------------------------------------------
+Would you like to (1) fight or (2) run away?1 - without going to cave
+You do your best...
+but your dagger is no match for the pirate/gorgon/trollwicked fairie.
+You have been defeated!
+Would you like to play again? (y/n)y
+Excellent! Restarting the game ...
+------------------------------------------
+Would you like to (1) fight or (2) run away?2 - with or without going to cave
+You run back into the field. Luckily, you don't seem to have been followed.
+---------------------------------------------
+2 - First time in the cave
+You peer cautiously into the cave.
+It turns out to be only a very small cave.
+Your eye catches a glint of metal behind a rock.
+You have found the magical Sword of Ogoroth!
+You discard your silly old dagger and take the sword with you.
+You walk back out to the field.
+
+-Back to the option
+Enter 1 to knock on the door of the house.
+Enter 2 to peer into the cave.
+What would you like to do?
+(Please enter 1 or 2.)
+----------------------------------------------
+2 - If you've been already gone to the cave
+You peer cautiously into the cave.
+You've been here before, and gotten all the good stuff. It's just an empty cave now.
+You walk back out to the field.
+-----------------------------------------------
+1 then 1 - After going to the cave
+You approach the door of the house.
+You are about to knock when the door opens and out steps a pirate/gorgon/troll/wicked fairie.
+Eep! This is the pirate/gorgon/troll/wicked fairie's house!
+The pirate/gorgon/troll/wicked fairie attacks you!
+Would you like to (1) fight or (2) run away?1
+As the pirate/gorgon/troll/wicked fairie moves to attack, you unsheath your new sword.
+The Sword of Ogoroth shines brightly in your hand as you brace yourself for the attack.
+But the pirate/gorgon/troll/wicked fairie takes one look at your shiny new toy and runs away!
+You have rid the town of the pirate/gorgon/troll/wicked fairie. You are victorious!
+Would you like to play again? (y/n)n
+Thanks for playing! See you next time.

@@ -6,7 +6,7 @@ monsters = ['pirate', 'gorgon', 'troll', 'wicked fairie']
 
 def print_pause(message):
     print(message)
-    time.sleep(0)
+    time.sleep(2)
 
 
 def intro(monster):
